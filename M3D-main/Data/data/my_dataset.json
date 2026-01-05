@@ -1,0 +1,48 @@
+{
+    "train": [
+        {
+            "image": "images/fake_case_000.npy",
+            "text": "texts/fake_case_000.txt"
+        },
+        {
+            "image": "images/fake_case_001.npy",
+            "text": "texts/fake_case_001.txt"
+        },
+        {
+            "image": "images/fake_case_002.npy",
+            "text": "texts/fake_case_002.txt"
+        },
+        {
+            "image": "images/fake_case_003.npy",
+            "text": "texts/fake_case_003.txt"
+        },
+        {
+            "image": "images/fake_case_004.npy",
+            "text": "texts/fake_case_004.txt"
+        },
+        {
+            "image": "images/fake_case_005.npy",
+            "text": "texts/fake_case_005.txt"
+        },
+        {
+            "image": "images/fake_case_006.npy",
+            "text": "texts/fake_case_006.txt"
+        }
+    ],
+    "validation": [
+        {
+            "image": "images/fake_case_007.npy",
+            "text": "texts/fake_case_007.txt"
+        },
+        {
+            "image": "images/fake_case_008.npy",
+            "text": "texts/fake_case_008.txt"
+        }
+    ],
+    "test": [
+        {
+            "image": "images/fake_case_009.npy",
+            "text": "texts/fake_case_009.txt"
+        }
+    ]
+}
